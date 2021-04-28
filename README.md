@@ -1,2 +1,0 @@
-# Mansi
-Test repository
